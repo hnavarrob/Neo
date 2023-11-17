@@ -1,5 +1,3 @@
-¡Claro que sí! Aquí tienes una propuesta para tu archivo README.md. Recuerda que puedes personalizarlo a tu gusto:
-
 ```markdown
 # 🤖 Chatbot para Migraciones IPv4 a IPv6 🌐
 
